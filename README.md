@@ -1,6 +1,6 @@
 # Ex. No. 3 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 24/10/24
+### DATE: 26/10/24
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -47,7 +47,8 @@
 
 ## Output:
 
-![image](https://github.com/Subhikshaa13/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118787344/036178fa-ff82-4c4e-a778-1b5eb9e12b55)
+![Screenshot 2024-10-26 105011](https://github.com/user-attachments/assets/946bf575-d972-44ea-902c-642a094b3102)
+
 
 ### Name:Vikamuhan reddy N
 ### Register Number:212223240181
