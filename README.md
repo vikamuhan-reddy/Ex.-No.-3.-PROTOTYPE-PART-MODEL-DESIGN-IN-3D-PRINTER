@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-11-23 at 15 12 33_b4399d1c](https://github.com/user-attachments/assets/5bae6115-a521-46eb-909b-5c4bf70bbd66)# Ex. No. 3 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+# Ex. No. 3 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
 ### DATE: 10/9/24
 ## AIM: 
