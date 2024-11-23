@@ -1,4 +1,4 @@
-# Ex. No. 3 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+![WhatsApp Image 2024-11-23 at 15 12 33_b4399d1c](https://github.com/user-attachments/assets/5bae6115-a521-46eb-909b-5c4bf70bbd66)# Ex. No. 3 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
 ### DATE: 10/9/24
 ## AIM: 
@@ -46,8 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![WhatsApp Image 2024-11-23 at 15 12 33_b4399d1c](https://github.com/user-attachments/assets/4fbb594a-ae2e-43ff-b11f-c00d45f21a71)
 
-![Screenshot 2024-10-26 105011](https://github.com/user-attachments/assets/946bf575-d972-44ea-902c-642a094b3102)
 
 
 ### Name:Vikamuhan reddy N
